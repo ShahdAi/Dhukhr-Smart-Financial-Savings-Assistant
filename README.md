@@ -73,3 +73,8 @@ All data is either synthetic or AI-generated to avoid exposing any real user fin
   - Suggest saving percentages
   - Encourage consistent saving habits
 - Simple, friendly Arabic user interface designed for non-expert users
+
+## 🔗 Live Demo
+You can try the project here:
+
+👉 [Click to Try the Demo](https://thakher.lovable.app)
