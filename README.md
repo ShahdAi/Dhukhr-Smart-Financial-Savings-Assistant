@@ -1,5 +1,5 @@
 # Dhukhr – Smart Financial Savings Assistant
-![alt text](link-of-your-image)
+![alt text](GUI.jpeg)
 
 Dhukhr (ذخر) is an AI-powered Arabic financial assistant that helps individuals organize their income, track expenses, and build a realistic saving plan that matches their lifestyle and financial goals.  
 It was developed for **AMAD Hackathon** organized by **Tuwaiq Academy** and **Alinma Bank** by the **Smart Pioneers Team**.
